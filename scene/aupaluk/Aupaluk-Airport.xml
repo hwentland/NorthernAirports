@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<Airport region="QC" country="Canada" state="Quebec" city="Aupaluk" name="Aupaluk Airport" ident="CYLA" lat="59.29961211405788" lon="-69.59834829290926" alt="19.01316371560097" magvar="-25.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+		<TaxiwayParking index="0" type="RAMP_GA_MEDIUM" lat="59.30274051255630" lon="-69.59918113059295" heading="105.000000" radius="14.000000" name="NONE" number="0" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiName index="0" name=""/>
+		<Runway lat="59.29723380820595" lon="-69.59959701931261" alt="19.02565958444029" heading="15.00000000000000" length="1073.19995117187500" width="30.47999954223633" patternAltitude="304.79998779296875" surface="{DDA4BB40-36F4-4CD3-8B2A-46D9C954FE00}" transparent="FALSE" number="04" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="NONE" edge="MEDIUM"/>
+			<RunwayStart end="PRIMARY" lat="59.30169191204210" lon="-69.59728547405226" alt="19.00874360650778" heading="195.00000000000000"/>
+			<RunwayStart end="SECONDARY" lat="59.29280198373159" lon="-69.60192037426916" alt="19.04349114373326" heading="15.00000000000000"/>
+		</Runway>
+		<Aprons>
+			<Apron surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="59.30150094898349" lon="-69.59755013122022"/>
+				<Vertex lat="59.30288611646294" lon="-69.59895513016912"/>
+				<Vertex lat="59.30301863551812" lon="-69.59978313787175"/>
+				<Vertex lat="59.30231066700069" lon="-69.60018050971630"/>
+				<Vertex lat="59.30209209599263" lon="-69.59875884280055"/>
+				<Vertex lat="59.30112821693302" lon="-69.59768714516403"/>
+			</Apron>
+		</Aprons>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+</FSData>
+

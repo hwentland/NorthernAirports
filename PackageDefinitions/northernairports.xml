@@ -1,0 +1,167 @@
+<AssetPackage Name="northernairports" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title/>
+		<Manufacturer/>
+		<Creator>Harry Wentland</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\northernairports\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\northernairports\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="akulivik-airport">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>scene\akulivik</AssetDir>
+			<OutputDir>scenery\akulivik</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="aupaluk-airport">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>scene\aupaluk\</AssetDir>
+			<OutputDir>scenery\aupaluk\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="inukjuak-airport">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>scene\inukjuak\</AssetDir>
+			<OutputDir>scenery\inukjuak\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="ivujivik-airport">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>scene\ivujivik\</AssetDir>
+			<OutputDir>scenery\ivujivik\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="kangiqsu-airport">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>scene\kangiqsu\</AssetDir>
+			<OutputDir>scenery\kangiqsu\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="kangiqsujuaq-airport">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>scene\kangiqsujuaq\</AssetDir>
+			<OutputDir>scenery\kangiqsujuaq\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="kangirsuk-airport">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>scene\kangirsuk\</AssetDir>
+			<OutputDir>scenery\kangirsuk\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="kattiniq-airport">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>scene\kattiniq\</AssetDir>
+			<OutputDir>scenery\kattiniq\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="kuujjuaq-airport">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>scene\kuujjuaq\</AssetDir>
+			<OutputDir>scenery\kuujjuaq\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="kuujjuarapik-airport">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>scene\kuujjuarapik\</AssetDir>
+			<OutputDir>scenery\kuujjuarapik\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="la-grande-4-airport">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>scene\lagrande4</AssetDir>
+			<OutputDir>scenery\lagrande4</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="nain-airport">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>scene\nain\</AssetDir>
+			<OutputDir>scenery\nain\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="natuashish-airport">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>scene\natuashish\</AssetDir>
+			<OutputDir>scenery\natuashish\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="puvirnituq-airport">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>scene\puvirnituq</AssetDir>
+			<OutputDir>scenery\puvirnituq</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="quaqtaq-airport">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>scene\quaqtaq\</AssetDir>
+			<OutputDir>scenery\quaqtaq\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="salluit-airport">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>scene\salluit\</AssetDir>
+			<OutputDir>scenery\salluit\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="tasiujaq-airport">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>scene\tasiujaq\</AssetDir>
+			<OutputDir>scenery\tasiujaq\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="umiujaq-airport">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>scene\umiujaq\</AssetDir>
+			<OutputDir>scenery\umiujaq\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

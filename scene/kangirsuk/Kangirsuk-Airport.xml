@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<Airport region="QC" country="Canada" state="Quebec" city="Kangirsuk" name="Kangirsuk Airport" ident="CYAS" lat="60.02316919319458" lon="-70.00142751838898" alt="100.39501162339002" magvar="-23.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+		<TaxiwayParking index="1" type="RAMP_GA_MEDIUM" lat="60.02345571997504" lon="-70.00289818585651" heading="145.000000" radius="14.000000" name="NONE" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="0" type="RAMP_GA_MEDIUM" lat="60.02289146607639" lon="-70.00330916073335" heading="55.000000" radius="14.000000" name="NONE" number="0" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiName index="0" name=""/>
+		<Runway lat="60.02687234648281" lon="-69.99986299677137" alt="100.37169186212122" heading="10.00000000000000" length="1073.19995117187500" width="30.47999954223633" patternAltitude="304.79998779296875" surface="{DDA4BB40-36F4-4CD3-8B2A-46D9C954FE00}" transparent="FALSE" number="03" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="NONE" edge="MEDIUM"/>
+			<RunwayStart end="PRIMARY" lat="60.02236564876382" lon="-70.00147133512330" alt="100.39483617618680" heading="10.00000000000000"/>
+			<RunwayStart end="SECONDARY" lat="60.03145027936644" lon="-69.99824630108265" alt="100.35129659529775" heading="190.00000000000000"/>
+		</Runway>
+		<Aprons>
+			<Apron surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="60.02320704049264" lon="-70.00135124332350"/>
+				<Vertex lat="60.02334045393211" lon="-70.00253915166859"/>
+				<Vertex lat="60.02359199151303" lon="-70.00246626642351"/>
+				<Vertex lat="60.02365477927003" lon="-70.00317629941986"/>
+				<Vertex lat="60.02404759723282" lon="-70.00308270196911"/>
+				<Vertex lat="60.02410580904612" lon="-70.00379868890589"/>
+				<Vertex lat="60.02278879740469" lon="-70.00419733347317"/>
+				<Vertex lat="60.02265653753504" lon="-70.00274971891179"/>
+				<Vertex lat="60.02307303821068" lon="-70.00262822387964"/>
+				<Vertex lat="60.02296598569850" lon="-70.00142048153877"/>
+			</Apron>
+			<Apron surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="-1" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="60.03161154423314" lon="-69.99795598533694"/>
+				<Vertex lat="60.03165575137625" lon="-69.99785101018804"/>
+				<Vertex lat="60.03162938574862" lon="-69.99774616866216"/>
+				<Vertex lat="60.03156945896693" lon="-69.99766731765054"/>
+				<Vertex lat="60.03150576363578" lon="-69.99763962558086"/>
+				<Vertex lat="60.03145323251101" lon="-69.99763962600883"/>
+				<Vertex lat="60.03140470015571" lon="-69.99767979842782"/>
+				<Vertex lat="60.03136755514947" lon="-69.99775402682253"/>
+				<Vertex lat="60.03130375464082" lon="-69.99785101067904"/>
+				<Vertex lat="60.03119392534076" lon="-69.99797053905094"/>
+				<Vertex lat="60.03116211112047" lon="-69.99809726049581"/>
+				<Vertex lat="60.03148440227663" lon="-69.99822426928455"/>
+			</Apron>
+		</Aprons>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+</FSData>
+

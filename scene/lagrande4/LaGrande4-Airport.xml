@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<Airport region="QC" country="Canada" state="Quebec" city="La Grande-4" name="La Grande-4 Airport" ident="CYAH" lat="53.75365642187811" lon="-73.67921359225954" alt="301.70829876791686" magvar="-19.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+		<TaxiwayParking index="2" type="RAMP_GA_MEDIUM" lat="53.75479276612948" lon="-73.67940489783919" heading="162.000000" radius="14.000000" name="NONE" number="2" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="0" type="RAMP_GA_MEDIUM" lat="53.75485322261972" lon="-73.67761409309823" heading="162.000000" radius="14.000000" name="NONE" number="0" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="1" type="RAMP_GA_MEDIUM" lat="53.75492107453528" lon="-73.67864846415537" heading="162.000000" radius="14.000000" name="NONE" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiName index="0" name=""/>
+		<Runway lat="53.75396374513522" lon="-73.67703380123750" alt="301.70691088307649" heading="72.00000000000000" length="1526.74304199218750" width="45.72000122070313" patternAltitude="304.79998779296875" surface="{DDA4BB40-36F4-4CD3-8B2A-46D9C954FE00}" transparent="FALSE" number="09" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="NONE" edge="HIGH"/>
+			<Vasi end="PRIMARY" side="LEFT" type="VASI21" biasX="0.000000" biasZ="0.000000" spacing="90.000000" pitch="0.000000"/>
+			<Vasi end="SECONDARY" side="LEFT" type="VASI21" biasX="0.000000" biasZ="0.000000" spacing="90.000000" pitch="0.000000"/>
+			<RunwayStart end="PRIMARY" lat="53.75193394497266" lon="-73.68761387195705" alt="301.73314713034779" heading="72.00000000000000"/>
+			<RunwayStart end="SECONDARY" lat="53.75601173414962" lon="-73.66643104420010" alt="301.68692129664123" heading="252.00000000000000"/>
+		</Runway>
+		<Aprons>
+			<Apron surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="53.75338509949955" lon="-73.68078748912471"/>
+				<Vertex lat="53.75584696493338" lon="-73.68220776286762"/>
+				<Vertex lat="53.75668045350871" lon="-73.67787975977787"/>
+				<Vertex lat="53.75470352802782" lon="-73.67686797415196"/>
+				<Vertex lat="53.75417152833829" lon="-73.67952077821248"/>
+				<Vertex lat="53.75367405399790" lon="-73.67927792565415"/>
+			</Apron>
+		</Aprons>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+</FSData>
+

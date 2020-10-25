@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<Airport region="QC" country="Canada" state="Quebec" city="Kangiqsujuaq" name="Kangiqsujuaq Airport" ident="CYKG" lat="61.59024374362275" lon="-71.93511825467525" alt="109.63467114139348" magvar="-24.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+		<TaxiwayParking index="1" type="RAMP_GA_MEDIUM" lat="61.59060673218062" lon="-71.93211758109011" heading="302.000000" radius="14.000000" name="NONE" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="0" type="RAMP_GA_MEDIUM" lat="61.59097339755503" lon="-71.93333460686357" heading="122.000000" radius="14.000000" name="NONE" number="0" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiName index="0" name=""/>
+		<Runway lat="61.58815727014550" lon="-71.92812380148943" alt="109.60632354300469" heading="122.00000000000000" length="1072.89599609375000" width="30.47999954223633" patternAltitude="304.79998779296875" surface="{DDA4BB40-36F4-4CD3-8B2A-46D9C954FE00}" transparent="FALSE" number="15" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="NONE" edge="MEDIUM"/>
+			<RunwayStart end="PRIMARY" lat="61.59060617108103" lon="-71.93628990912894" alt="109.60323282703757" heading="122.00000000000000"/>
+			<RunwayStart end="SECONDARY" lat="61.58570925344453" lon="-71.91984955906344" alt="109.61121513508260" heading="302.00000000000000"/>
+		</Runway>
+		<Aprons>
+			<Apron surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="61.59163063485794" lon="-71.93297036709023"/>
+				<Vertex lat="61.59109815496542" lon="-71.93104192998739"/>
+				<Vertex lat="61.59013444573658" lon="-71.93216644914635"/>
+				<Vertex lat="61.59034028740169" lon="-71.93289904812713"/>
+				<Vertex lat="61.58987025072238" lon="-71.93347077373947"/>
+				<Vertex lat="61.59002487003798" lon="-71.93397793626633"/>
+				<Vertex lat="61.59050447512548" lon="-71.93344783897584"/>
+				<Vertex lat="61.59072318797275" lon="-71.93419995133479"/>
+			</Apron>
+		</Aprons>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+</FSData>
+
